@@ -1,4 +1,4 @@
-# Space Explorer
+# Space Explorer HACKER SCHOOL
 
 
 ## Introduction @unplugged
@@ -6,11 +6,13 @@
 ** Let's explore the depths of space! **
 
 In this tutorial, you'll design a spaceship for your journey.
+HACKER SCHOOL
 
 ![Flying through space](/static/skillmap/space/space1.gif "Blasting through a starfield" )
 
 ## Set the scene
 **Give 'em something to look at** 🔭
+HACKER SCHOOL
 
 ---
 
