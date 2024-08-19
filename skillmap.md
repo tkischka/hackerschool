@@ -3,8 +3,8 @@
 * description: Hacker School Kurs.
 
 ## interface
-* name: Learn to use MakeCode Arcade
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* name: Test Hacker School
+* description: test test
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
