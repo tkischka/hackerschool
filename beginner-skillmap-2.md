@@ -1,4 +1,4 @@
-# Beginner Arcade
+# Hacker School
 * name: Beginner's Guide to Arcade Games
 * description: Learn to create arcade games of your own by completing these tutorials.
 * infoUrl: /skillmap/educator-info/basic-map-info
@@ -6,15 +6,15 @@
 
 
 ## Learn to Use Tutorial
-* name: Learn to Use MakeCode Arcade
-* description: Start here if you want to know the ins and outs of Arcade tutorials!
+* name: Learn to Use Hacker School
+* description: Start Hacker School!
 * completionUrl: /skillmap/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
 
-* name: Get to Know MakeCode Arcade
+* name: Get to Know Hacker School
 * type: tutorial
-* description: Intro to the features and vocabulary used in Arcade tutorials.
+* description: Intro to Hacker School.
 * tags: easy
 
 * url: /skillmap/interface/activity1 
@@ -26,7 +26,7 @@
 
 ## Quick Example Games
 * name: Quick-Start Games
-* description:  Build your first games in less than 30 minutes!
+* description:  Build your first games in Hacker School!
 * completionUrl: /static/skillmap/certificates/getting-started.pdf
 
 
