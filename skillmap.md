@@ -1,6 +1,6 @@
 # sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+* name: Hacker School
+* description: Hacker School Kurs.
 
 ## interface
 * name: Learn to use MakeCode Arcade
@@ -9,13 +9,13 @@
 
 ### interface-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: Erste Aufgabe
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
 
-* url: https://github.com/tkischka/hackerschool_skillmaptest/tutorials/interface/activity1 
-* imageUrl: https://raw.githubusercontent.com/tkischka/hackerschool_skillmaptest/main/img/interface/activity1.png
+* url: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf 
+* imageUrl: https://licensing.wdr-mediagroup.com/wp-content/uploads/2021/12/WDR_MG-Marke-Logo_Maulwurf_01.png
 
 ## space
 * name: Design a Space Explorer
