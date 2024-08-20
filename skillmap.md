@@ -18,15 +18,15 @@
 * imageUrl: https://licensing.wdr-mediagroup.com/wp-content/uploads/2021/12/WDR_MG-Marke-Logo_Maulwurf_01.png
 
 ## space
-* name: Design a Space Explorer
-* description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
+* name: Würfel
+* description: Würfel.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
 
 ### space-activity1
 
-* name: Ship Design
+* name: Würfelbasteln
 * type: tutorial
-* description: Draw and code a spaceship!
+* description: Baue einen Würfel!
 * tags: easy
 * next: space-activity2
 
