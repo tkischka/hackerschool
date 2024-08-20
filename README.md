@@ -1,7 +1,7 @@
 # MakeCode Skill Map Sample
 
 This is an example skill map that contains three separate learning paths.You can view the content here:
-https://arcade.makecode.com/skillmap#github:tkischka/hackerschool_skillmaptest/skillmap.md
+https://arcade.makecode.com/skillmap#github:tkischka/hackerschool/skillmap.md
 
 Github-hosted skill maps are loaded in the same manner as tutorials, with a URL fragment
 formatted as follows:
