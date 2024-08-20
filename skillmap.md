@@ -4,7 +4,7 @@
 
 ## calliwood
 * name: Hacker School
-* description: Aufgaben für den Hacker School Kurs.
+* description: Aufgaben für den Hacker School Kurs. [https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf](https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf)
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
 ### calliwood-activity1
