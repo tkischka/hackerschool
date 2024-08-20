@@ -1,21 +1,59 @@
 # sample
 * name: Hacker School v1.0
-* description: Hacker School Kurs.
+* description: Hacker School Kurs 5./6. Oktober.
 
-## interface
-* name: Test Hacker School
-* description: test test
+## calliwood
+* name: Hacker School
+* description: Aufgaben für den Hacker School Kurs.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### interface-activity1
+### calliwood-activity1
 
-* name: Erste Aufgabe
+* name: Countdown
 * type: tutorial
-* description: Intro to our tutorial cards
-* tags: easy
+* description: Baue einen Countdown LINK: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf
+* tags: einfach
 
 * url: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf 
-* imageUrl: https://licensing.wdr-mediagroup.com/wp-content/uploads/2021/12/WDR_MG-Marke-Logo_Maulwurf_01.png
+* imageUrl: https://i1.pickpik.com/photos/657/193/207/rocket-rocket-launch-smoke-space-shuttle-preview.jpg
+
+### calliwood-activity2
+
+* name: Film ab! Hüpfender Ball
+* type: tutorial
+* description: Lasse einen Ball hüpfen ```codecard
+[{
+    "name": "A card",
+    "url": "https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf"
+}, {
+    "name": "Another card",
+    "url": "...."
+}]
+```
+* tags: einfach
+
+* url: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf 
+* imageUrl: https://i1.pickpik.com/photos/657/193/207/rocket-rocket-launch-smoke-space-shuttle-preview.jpg
+
+### calliwood-activity3
+
+* name: Rakete
+* type: tutorial
+* description: Lasse eine Rakete starten
+* tags: einfach, LEDs
+
+* url: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf 
+* imageUrl: https://i1.pickpik.com/photos/657/193/207/rocket-rocket-launch-smoke-space-shuttle-preview.jpg
+
+### calliwood-activity4
+
+* name: Raketenstart nach Countdown
+* type: tutorial
+* description: Lasse eine Rakete starten nachdem ein Countdown abgelaufen ist
+* tags: mittel
+
+* url: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf 
+* imageUrl: https://i1.pickpik.com/photos/657/193/207/rocket-rocket-launch-smoke-space-shuttle-preview.jpg
 
 ## space
 * name: Würfel
