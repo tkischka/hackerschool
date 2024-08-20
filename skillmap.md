@@ -30,7 +30,7 @@
 * tags: easy
 * next: space-activity2
 
-* url: https://github.com/tkischka/hackerschool_skillmaptest/tutorials/space/activity1
+* url: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf
 * imageUrl: https://raw.githubusercontent.com/tkischka/hackerschool_skillmaptest/main/img/space/activity1.png
 
 ### space-activity2
@@ -41,7 +41,7 @@
 * tags: easy, projectiles, kinds
 * next: space-activity3
 
-* url: https://github.com/tkischka/hackerschool_skillmaptest/tutorials/space/activity2
+* url: https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf
 * imageUrl: https://raw.githubusercontent.com/tkischka/hackerschool_skillmaptest/main/img/space/activity2.png
 
 ### space-activity3
