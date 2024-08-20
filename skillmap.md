@@ -1,5 +1,5 @@
 # sample
-* name: Hacker School
+* name: Hacker School v1.0
 * description: Hacker School Kurs.
 
 ## interface
@@ -26,7 +26,7 @@
 
 * name: Würfelbasteln
 * type: tutorial
-* description: Baue einen Würfel! [LINK](https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf) 
+* description: Baue einen Würfel! LINK: [LINK](https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf) 
 * tags: easy
 * next: space-activity2
 
