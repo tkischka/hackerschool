@@ -26,7 +26,7 @@
 
 * name: Würfelbasteln
 * type: tutorial
-* description: Baue einen Würfel!
+* description: Baue einen Würfel! [LINK](https://makecode.calliope.cc/#tutorial:https://github.com/calliope-edu/makecode-tutorials/tutorials/maulwurf) 
 * tags: easy
 * next: space-activity2
 
